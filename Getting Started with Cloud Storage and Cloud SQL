@@ -1,0 +1,4 @@
+In this lab, you create a Cloud Storage bucket and place an image in it. You also configure an application running in Compute Engine to use a database managed by Cloud SQL. 
+For this lab, you configure a web server with PHP, a web development environment that is the basis for popular blogging software. Outside this lab, you will use analogous techniques to configure these packages.
+
+You also configure the web server to reference the image in the Cloud Storage bucket.
